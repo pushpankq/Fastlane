@@ -1,8 +1,8 @@
-# Fastlane
-We use Testflight to deliver build via fastlane.
+# iOS Build Delivery
 
-fastlane is a tool for developers that can do following tedious tasks with simple commands.
+We use Testflight to deliver build via  `fastlane`.
 
-Generating screenshots.
-Dealing with provisioning profiles.
-Releasing application.
+`fastlane`  is a tool for developers that can do following tedious tasks with simple commands.
+1.  Generating screenshots.
+2.  Dealing with provisioning profiles.
+3.  Releasing application
